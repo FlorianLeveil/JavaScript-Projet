@@ -1,0 +1,17 @@
+body {
+  color: #2e2b26;
+  font-family: sans-serif; }
+
+h1 {
+  font-size: 1.5rem; }
+
+img {
+  max-width: 100%; }
+
+.form__wrapper {
+  padding: 2rem; }
+  .form__wrapper form {
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center; }
+
